@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @morajdhwaj
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Bootstarp
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dhwajmoraj7@gmail.com
 
